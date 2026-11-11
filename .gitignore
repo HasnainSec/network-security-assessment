@@ -1,2 +1,3 @@
-captures/*.pcapng
 scans/
+captures/
+*.pcapng
