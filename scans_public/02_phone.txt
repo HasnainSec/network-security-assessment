@@ -1,0 +1,12 @@
+# Nmap 7.94SVN scan initiated Tue Nov  3 23:02:36 2026 as: nmap -sV -O -oN scans/02_phone.txt 10.31.213.123
+Nmap scan report for _gateway (10.31.213.123)
+Host is up (0.046s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+53/tcp open  domain  dnsmasq 2.51
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+Network Distance: 1 hop
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Nov  3 23:02:55 2026 -- 1 IP address (1 host up) scanned in 19.15 seconds

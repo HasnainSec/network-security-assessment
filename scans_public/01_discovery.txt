@@ -1,0 +1,6 @@
+# Nmap 7.94SVN scan initiated Tue Nov  3 22:59:07 2026 as: nmap -sn -oN scans/01_discovery.txt 10.31.213.0/24
+Nmap scan report for _gateway (10.31.213.123)
+Host is up (0.050s latency).
+Nmap scan report for HOSTNAME (10.31.213.186)
+Host is up (0.00018s latency).
+# Nmap done at Tue Nov  3 22:59:16 2026 -- 256 IP addresses (2 hosts up) scanned in 8.47 seconds
