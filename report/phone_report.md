@@ -1,7 +1,7 @@
 # Nmap Scan Report
 
-Source file: `scans/05_phone.xml`  
-Generated: 2026-11-04 00:45
+Source file: `scans_public/05_phone.xml`  
+Generated: 2026-11-11 19:09
 
 ## Host: 10.31.213.123 (_gateway)
 
